@@ -1,6 +1,6 @@
 Merchandise Repo
 ================
 
-Memes Cups Flyer Sticker and Vodofigures of Schabi
+Memes, cups, flyers, stickers and voodoo figures of Schabi
 
 ![this is newpipe](memes/this_is_newpipe.jpg)
